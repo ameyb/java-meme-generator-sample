@@ -38,7 +38,7 @@ import com.amazonaws.services.sqs.model.CreateQueueRequest;
  */
 public class AWSResources {
 
-    public static final String S3_BUCKET_NAME = "reinvent-meme-generator";
+    public static final String S3_BUCKET_NAME = "amey-test-data";
     public static final String SQS_QUEUE_NAME = "reinvent-memes";
     public static final String DYNAMODB_TABLE_NAME = "reinvent-memes";
 
